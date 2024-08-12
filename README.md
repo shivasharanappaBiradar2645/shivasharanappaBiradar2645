@@ -4,9 +4,12 @@
 
 Hello! I'm Shivasharanappa Biradar, a noob developer with a passion for robotics, AI, and machine learning. I enjoy exploring the possibilities of these fields and leveraging them to create innovative solutions. Though I'm still learning, I'm eager to collaborate on exciting projects and expand my skills.
 
+## Education
+- Don Bosco College of Engineering(second year)
+
 ## Skills
 
-- Programming Languages: Python, JavaScript
+- Programming Languages: Python, JavaScript,C, C++
 - Areas of Interest: Robotics, Artificial Intelligence, Machine Learning
 
 
