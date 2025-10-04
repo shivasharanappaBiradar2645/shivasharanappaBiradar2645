@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Online Bank (Flask)",
+    "description": "A simple online banking system built with Flask. Features include QR code payments, fund transfers, and basic banking operations.",
+    "link": "https://github.com/shivasharanappaBiradar2645/Online-Bank"
+  },
+  {
+    "title": "Hospital Management System (C++)",
+    "description": "Developed a C++ program for a Hospital Management System, managing patient records, appointments, and treatment details with efficient data handling and user interface.",
+    "link": "https://github.com/shivasharanappaBiradar2645/hospital_management_system"
+  },
+  {
+    "title": "Simple CLI Diary (Python)",
+    "description": "Developed a Python-based command-line diary app with SQLite for secure logging and efficient data retrieval of daily entries.",
+    "link": "https://github.com/shivasharanappaBiradar2645/simple_cli_diary"
+  }
+]

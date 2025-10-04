@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+
+   themes: light --default, black --prefersdark;
+
+ };
+ 
+ .GOS{
+  font-family: 'GameOfSquid', sans-serif;
+}
+
+@font-face {
+  font-family: 'GameOfSquid';
+  src:url('/fonts/Game Of Squids.ttf');
+}
