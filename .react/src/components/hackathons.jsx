@@ -12,8 +12,8 @@ const HackathonTimeline = () => {
   }, []);
 
   return (
-    <div className="p-6">
-      <h2 className="text-3xl font-bold mb-10 text-white text-center">Hackathons & Projects</h2>
+    <div className="p-6" id="">
+      <h2 className="text-3xl font-bold mb-10  text-center">Hackathons </h2>
 
       {/* --- LARGE SCREEN TIMELINE --- */}
       <div className="hidden sm:block relative">

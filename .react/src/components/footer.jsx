@@ -1,15 +1,15 @@
 const Footer = () => {
   return (
-    <footer className=" py-8 mt-12">
+    <footer id="contact" className=" py-8 mt-12">
       <div className="flex flex-col items-center gap-4">
         <h2 className="text-2xl font-bold">Contact</h2>
         <p>
           Email:{" "}
           <a
-            href="mailto:hitori.shiv321@gmail.com"
+            href="mailto:shivasharanappabiradar@outlook.com"
             className="text-blue-400 hover:text-blue-600 transition"
           >
-            hitori.shiv321@gmail.com
+           shivasharanappabiradar@outlook.com
           </a>
         </p>
 

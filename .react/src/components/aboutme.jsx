@@ -5,7 +5,7 @@ function aboutme(){
 
     return (
         <>
-        <section className="flex flex-col items-center justify-center  md:max-w-3xl bg-base-200 mt-3 mx-2 md:mx-auto  p-8 ">
+        <section id="about" className="flex flex-col items-center justify-center  md:max-w-3xl bg-base-200 mt-3 mx-2 md:mx-auto  p-8 ">
       <h1 className='mb-2' >ABOUT ME</h1>
       <img
         src="/profile.webp"

@@ -11,7 +11,7 @@ const PersonalProjects = () => {
   }, []);
 
   return (
-    <section className="p-8 rounded-md flex flex-col m-4 justify-center items-center">
+    <section id="projects" className="p-8 rounded-md flex flex-col m-4 justify-center items-center">
       <h2 className="text-2xl font-bold mb-6  text-center">
         Personal Projects
       </h2>
